@@ -1,0 +1,66 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    //Úvod
+    <string name="app_name">Knihovník BETA</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="nastaveni">Nastavení</string>
+    <string name="hlavni">Doporučené</string>
+    <string name="beta">BETA</string>
+    <string name="uvod_beta">Knihovník</string>
+
+    //Lidová a Vědecká
+    <string name="tel_lid">+420 475 209 126</string>
+    <string name="tel_ved">+420 475 220 811</string>
+
+    <string name="po1" tools:ignore="TypographyDashes">Po: 9-18</string>
+    <string name="ut1" tools:ignore="TypographyDashes">Út: 9-18</string>
+    <string name="st1" tools:ignore="TypographyDashes">St: 13-18</string>
+    <string name="ct1" tools:ignore="TypographyDashes">Čt: 9-18</string>
+    <string name="pa1" tools:ignore="TypographyDashes">Pá: 9-18</string>
+    <string name="so1">So: Zavřeno</string>
+    <string name="so2" tools:ignore="TypographyDashes">So: 9-18</string>
+    <string name="ne1">Ne: Zavřeno</string>
+
+
+    //Všechny pobočky
+    <string name="vsechny">Všechny pobočky</string>
+    <string name="vsechny_sipka"><![CDATA[Všechny pobočky >]]></string>
+    <string name="lidova">Lidová část</string>
+    <string name="vedecka">Vědecká část</string>
+    <string name="hornicka_vse">Hornická</string>
+    <string name="klise_vse">Klíše</string>
+    <string name="stribrniky_vse">Stříbrníky</string>
+    <string name="dalsi">V případě otevření dalších poboček budou nové pobočky přidány</string>
+
+    //Menší pobočky
+    <string name="telefon">Telefon</string>
+    <string name="oteviraci">Otevírací doba</string>
+    <string name="stribrniky">Pobočka Stříbrníky</string>
+    <string name="hornicka">Pobočka Hornická</string>
+    <string name="klise">Pobočka Klíše</string>
+    <string name="tel_klise">+420 733 121 803</string>
+    <string name="tel_stribrniky">+420 733 121 806</string>
+    <string name="tel_hornicka">+420 733 121 801</string>
+
+    <string name="po" tools:ignore="TypographyDashes">Po: 9-12 a 13-18</string>
+    <string name="ut">Út: Zavřeno</string>
+    <string name="st" tools:ignore="TypographyDashes">St: 12-18</string>
+    <string name="ct" tools:ignore="TypographyDashes">Čt: 9-12 a 13-18</string>
+    <string name="pa">Pá: Zavřeno</string>
+    <string name="so">So: Zavřeno</string>
+    <string name="ne">Ne: Zavřeno</string>
+
+    //Nastavení
+    <string name="motiv">Motiv</string>
+    <string name="svetly">Světlý</string>
+    <string name="tmavy">Tmavý</string>
+    <string name="automaticky">Automaticky</string>
+    <string name="auto_info">Tmavý motiv se zapne při zapnutí tmavého režimu v nastavení telefonu.</string>
+    <string name="doporucene">Doporučené knihovny</string>
+    <string name="zobrazit">Zobrazit</string>
+    <string name="skryt">Skrýt</string>
+    <string name="autor">Aplikaci vytvořil Ondřej Brokl</string>
+
+    //Ostatní
+    <string name="knihovna">Knihovna</string>
+</resources>
