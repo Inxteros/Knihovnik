@@ -21,7 +21,7 @@
         android:layout_marginTop="100dp"
         android:fontFamily="@font/quicksand_light"
         android:text="@string/vedecka"
-        android:textColor="@color/colorPrimary"
+        android:textColor="@color/text"
         android:textSize="36sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -42,7 +42,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="10dp"
         android:layout_marginTop="20dp"
-        android:textColor="@color/colorPrimary"
+        android:textColor="@color/text"
         android:fontFamily="@font/quicksand_light"
         android:text="@string/telefon"
         android:textSize="24sp"
@@ -54,7 +54,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="20dp"
-        android:textColor="@color/colorPrimary"
+        android:textColor="@color/text"
         android:layout_marginTop="5dp"
         android:fontFamily="@font/quicksand_light"
         android:text="@string/tel_ved"
@@ -66,7 +66,7 @@
         android:id="@+id/textView12"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:textColor="@color/colorPrimary"
+        android:textColor="@color/text"
         android:layout_marginStart="10dp"
         android:layout_marginTop="20dp"
         android:fontFamily="@font/quicksand_light"
@@ -82,7 +82,7 @@
         android:layout_marginStart="20dp"
         android:fontFamily="@font/quicksand_light"
         android:text="@string/po1"
-        android:textColor="@color/colorPrimary"
+        android:textColor="@color/text"
         android:textSize="18sp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView12" />
@@ -94,7 +94,7 @@
         android:layout_marginStart="20dp"
         android:fontFamily="@font/quicksand_light"
         android:text="@string/ut1"
-        android:textColor="@color/colorPrimary"
+        android:textColor="@color/text"
         android:textSize="18sp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView13" />
@@ -107,7 +107,7 @@
         android:fontFamily="@font/quicksand_light"
         android:text="@string/pa1"
         android:textSize="18sp"
-        android:textColor="@color/colorPrimary"
+        android:textColor="@color/text"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView17" />
 
@@ -118,7 +118,7 @@
         android:layout_marginStart="20dp"
         android:fontFamily="@font/quicksand_light"
         android:text="@string/st1"
-        android:textColor="@color/colorPrimary"
+        android:textColor="@color/text"
         android:textSize="18sp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView14" />
@@ -131,7 +131,7 @@
         android:fontFamily="@font/quicksand_light"
         android:text="@string/ct1"
         android:textSize="18sp"
-        android:textColor="@color/colorPrimary"
+        android:textColor="@color/text"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView16" />
 
@@ -143,7 +143,7 @@
         android:fontFamily="@font/quicksand_light"
         android:text="@string/so2"
         android:textSize="18sp"
-        android:textColor="@color/colorPrimary"
+        android:textColor="@color/text"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView15" />
 
@@ -154,7 +154,7 @@
         android:layout_marginStart="20dp"
         android:fontFamily="@font/quicksand_light"
         android:text="@string/ne1"
-        android:textColor="@color/colorPrimary"
+        android:textColor="@color/text"
         android:textSize="18sp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView18" />

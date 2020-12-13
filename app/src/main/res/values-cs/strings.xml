@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Knihovník BETA</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="nastaveni">Nastavení</string>
+    <string name="hlavni">Doporučené</string>
+    <string name="uvod_beta">Knihovník</string>
+    <string name="po1">Po: 9-18</string>
+    <string name="ut1">Út: 9-18</string>
+    <string name="st1">St: 13-18</string>
+    <string name="ct1">Čt: 9-18</string>
+    <string name="pa1">Pá: 9-18</string>
+    <string name="so1">So: Zavřeno</string>
+    <string name="so2">Sat: 9-18</string>
+    <string name="ne1">Ne: Zavřeno</string>
+    <string name="vsechny">Všechny pobočky</string>
+    <string name="vsechny_sipka"><![CDATA[Všechny pobočky >]]></string>
+</resources>

@@ -1,30 +1,30 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
 
     //Úvod
-    <string name="app_name">Knihovník BETA</string>
+    <string name="app_name">Librarian BETA</string>
     <string name="title_activity_settings">SettingsActivity</string>
-    <string name="nastaveni">Nastavení</string>
-    <string name="hlavni">Doporučené</string>
+    <string name="nastaveni">Settings</string>
+    <string name="hlavni">Recommended</string>
     <string name="beta">BETA</string>
-    <string name="uvod_beta">Knihovník</string>
+    <string name="uvod_beta">Librarian</string>
 
     //Lidová a Vědecká
     <string name="tel_lid">+420 475 209 126</string>
     <string name="tel_ved">+420 475 220 811</string>
 
-    <string name="po1" tools:ignore="TypographyDashes">Po: 9-18</string>
-    <string name="ut1" tools:ignore="TypographyDashes">Út: 9-18</string>
-    <string name="st1" tools:ignore="TypographyDashes">St: 13-18</string>
-    <string name="ct1" tools:ignore="TypographyDashes">Čt: 9-18</string>
-    <string name="pa1" tools:ignore="TypographyDashes">Pá: 9-18</string>
-    <string name="so1">So: Zavřeno</string>
-    <string name="so2" tools:ignore="TypographyDashes">So: 9-18</string>
-    <string name="ne1">Ne: Zavřeno</string>
+    <string name="po1" tools:ignore="TypographyDashes">Mon: 9-18</string>
+    <string name="ut1" tools:ignore="TypographyDashes">Tue: 9-18</string>
+    <string name="st1" tools:ignore="TypographyDashes">Wed: 13-18</string>
+    <string name="ct1" tools:ignore="TypographyDashes">Thu: 9-18</string>
+    <string name="pa1" tools:ignore="TypographyDashes">Fri: 9-18</string>
+    <string name="so1">Sat: Closed</string>
+    <string name="so2" tools:ignore="TypographyDashes">Sat: 9-18</string>
+    <string name="ne1">Sun: Closed</string>
 
 
     //Všechny pobočky
-    <string name="vsechny">Všechny pobočky</string>
-    <string name="vsechny_sipka"><![CDATA[Všechny pobočky >]]></string>
+    <string name="vsechny">All branch offices</string>
+    <string name="vsechny_sipka"><![CDATA[All branch offices >]]></string>
     <string name="lidova">Lidová část</string>
     <string name="vedecka">Vědecká část</string>
     <string name="hornicka_vse">Hornická</string>
